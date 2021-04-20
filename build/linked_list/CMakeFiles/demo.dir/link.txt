@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-5    -g -g   CMakeFiles/demo.dir/_21.cc.o  -o demo 

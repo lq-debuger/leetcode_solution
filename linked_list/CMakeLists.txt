@@ -1,0 +1,1 @@
+add_executable(demo _21.cc )
