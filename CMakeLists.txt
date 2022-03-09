@@ -6,4 +6,4 @@ project(leetcode)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -g")
 
-add_subdirectory(linked_list)
+add_subdirectory(array)
